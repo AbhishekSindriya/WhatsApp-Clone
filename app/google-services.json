@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699578825648",
+    "project_id": "abhishek-whatsapp-53309",
+    "storage_bucket": "abhishek-whatsapp-53309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699578825648:android:05c2d4a2cc3a9daf4df475",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699578825648-6ddf9e3am39bcmmurb2le4bdklmcetck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQgfPNyqZwyJpShkt8D3HDH7zsk3V_l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699578825648-6ddf9e3am39bcmmurb2le4bdklmcetck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
